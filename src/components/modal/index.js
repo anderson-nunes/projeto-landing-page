@@ -76,7 +76,6 @@ logButton.addEventListener('click', function (e) {
   overlay.classList.add('hidden')
 
   alert('Formulário enviado com sucesso')
-
 })
 
 
