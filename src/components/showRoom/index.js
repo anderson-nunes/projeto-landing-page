@@ -1,36 +1,38 @@
-// let imagens = document.querySelectorAll('.small-img')
-// let modal_show = document.querySelector('.modal-show')
-// let modalImg = document.querySelector('#modal-img')
-// let btnClose = document.querySelector('#btn-close')
-// let overlayImg = document.querySelector('.overlay')
-// let srcVal = ""
+//FUNÇÃO MODAL DAS IMAGENS DO SHOW ROOM
 
-// for (let i = 0; i < imagens.length; i++) {
-//   imagens[i].addEventListener('click', function () {
+let imagens = document.querySelectorAll('.small-img')
+let modal_show = document.querySelector('.modal-show')
+let modalImg = document.querySelector('#modal-img')
+let btnClose = document.querySelector('#btn-close')
+let overlayImg = document.querySelector('.overlay')
+let srcVal = ""
 
-//     srcVal = imagens[i].getAttribute('src')
-//     modalImg.setAttribute('src', srcVal)
-//     modal_show.classList.toggle('modal-active');
+for (let i = 0; i < imagens.length; i++) {
+  imagens[i].addEventListener('click', function () {
 
-//     modalImg.classList.remove('hidden')
-//     overlay.classList.remove('hidden')
-//   })
-// }
+    srcVal = imagens[i].getAttribute('src')
+    modalImg.setAttribute('src', srcVal)
+    modal_show.classList.toggle('modal-active');
 
-// function closeImageModal() {
-//   modal_show.classList.toggle('modal-active')
+    modalImg.classList.remove('hidden')
+    overlay.classList.remove('hidden')
+  })
+}
 
-//   modalImg.classList.add('hidden')
-//   overlay.classList.add('hidden')
-// }
+function closeImageModal() {
+  modal_show.classList.toggle('modal-active')
 
-// btnClose.addEventListener('click', closeImageModal)
-// overlayImg.addEventListener('click', closeImageModal)
+  modalImg.classList.add('hidden')
+  overlay.classList.add('hidden')
+}
 
-// document.addEventListener('keydown', function (e) {
-//   if (e.key === 'Escape' && !modalImg.classList.contains('hidden')) {
-//     closeImageModal()
-//   }
-// })
+btnClose.addEventListener('click', closeImageModal)
+overlayImg.addEventListener('click', closeImageModal)
+
+document.addEventListener('keydown', function (e) {
+  if (e.key === 'Escape' && !modalImg.classList.contains('hidden')) {
+    closeImageModal()
+  }
+})
 
 
