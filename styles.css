@@ -382,7 +382,7 @@ header .nav-container {
   .picture {
     background-color: rgba(0, 0, 0, 5%);
     padding: 0.5rem;
-    width: 100%;
+    width: 80%;
     background-size: cover;
     -webkit-transition: -webkit-transform 0.7s ease;
     transition: transform 0.7s ease;
