@@ -45,7 +45,7 @@ A sua Landing Page deve conter:
     * Promoções
 </details>
 
-link surge: http://irritating-health.surge.sh
+link surge: http://abusive-love.surge.sh
 
 ## Desktop
 
