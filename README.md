@@ -1,4 +1,4 @@
-# Índice
+## Índice
 
 - [Resumo do projeto](#Resumo-do-projeto)
 - [Link de Acesso](#Link-de-Acesso)
@@ -32,7 +32,7 @@ link surge: http://anderson-ribeiro-nunes.surge.sh/
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma" style="height: 30px;"/>
 </p>
 
-## Estas foram os itens de requisitos para o projeto
+## Estes foram os itens de requisitos para o projeto
 
 A sua Landing Page deve conter:
 
