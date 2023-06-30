@@ -12,6 +12,10 @@ A Log4 é uma empresa de uma grande varejista que, após liderar o mercado de m�
 
 [Logo aqui](https://labenu.notion.site/Projeto-Landing-Page-WFS-7b37ff1460e741b1b5e1e049d7df9d69)
 
+## Link de Acesso
+
+link surge: http://abusive-love.surge.sh
+
 ## Estas foram os itens de requisitos para o projeto
 
 A sua Landing Page deve conter:
@@ -44,8 +48,6 @@ A sua Landing Page deve conter:
     * FAQ/Perguntas Frequentes
     * Promoções
 </details>
-
-link surge: http://abusive-love.surge.sh
 
 ## Desktop
 
