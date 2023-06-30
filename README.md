@@ -2,7 +2,7 @@
 
 - [Resumo do projeto](#Resumo-do-projeto)
 - [Link de Acesso](#Link-de-Acesso)
-- [Tecnologias e Ferramentas](#Tecnologias-e-Ferramentas)
+- [Tecnologias e Ferramentas Utilizadas](#Tecnologias-e-Ferramentas-Utilizadas)
 - [Estas foram os itens de requisitos para o projeto](#Estas-foram-os-itens-de-requisitos-para-o-projeto)
 - [Desktop](#Desktop)
 - [Desktop formulário](#Desktop-formulário)
