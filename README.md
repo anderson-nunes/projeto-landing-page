@@ -16,6 +16,12 @@ A Log4 é uma empresa de uma grande varejista que, após liderar o mercado de m�
 
 link surge: http://abusive-love.surge.sh
 
+## Tecnologias e Ferramentas Utilizadas
+
+<br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma" style="height: 30px;"/>
+</p>
+
 ## Estas foram os itens de requisitos para o projeto
 
 A sua Landing Page deve conter:
